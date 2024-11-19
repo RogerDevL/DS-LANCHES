@@ -1,7 +1,7 @@
 # SENAI Cotia - "Ricardo Lerner"
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://www.conre3.org.br/portal/wp-content/uploads/2024/05/logo-senai-1.png" alt="SENAI Cotia - "Ricardo Lerner" border="0"></a>
+<a href= "https://sp.senai.br/unidade/cotia/"><img src="https://www.conre3.org.br/portal/wp-content/uploads/2024/05/logo-senai-1.png" alt="SENAI Cotia - "Ricardo Lerner" border="0"></a>
 </p>
 
 # DS´LANCHES
